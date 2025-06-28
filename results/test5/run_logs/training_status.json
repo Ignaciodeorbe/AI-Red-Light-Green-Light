@@ -1,0 +1,65 @@
+{
+    "RedLight": {
+        "checkpoints": [
+            {
+                "steps": 2499848,
+                "file_path": "results\\test5\\RedLight\\RedLight-2499848.onnx",
+                "reward": -101.99999237060547,
+                "creation_time": 1744842070.7361884,
+                "auxillary_file_paths": [
+                    "results\\test5\\RedLight\\RedLight-2499848.pt"
+                ]
+            },
+            {
+                "steps": 2780848,
+                "file_path": "results\\test5\\RedLight\\RedLight-2780848.onnx",
+                "reward": null,
+                "creation_time": 1744842361.3083436,
+                "auxillary_file_paths": [
+                    "results\\test5\\RedLight\\RedLight-2780848.pt"
+                ]
+            },
+            {
+                "steps": 2999848,
+                "file_path": "results\\test5\\RedLight\\RedLight-2999848.onnx",
+                "reward": -102.0184555053711,
+                "creation_time": 1744842818.2233472,
+                "auxillary_file_paths": [
+                    "results\\test5\\RedLight\\RedLight-2999848.pt"
+                ]
+            },
+            {
+                "steps": 3499896,
+                "file_path": "results\\test5\\RedLight\\RedLight-3499896.onnx",
+                "reward": -951.9833776595744,
+                "creation_time": 1744843283.5315206,
+                "auxillary_file_paths": [
+                    "results\\test5\\RedLight\\RedLight-3499896.pt"
+                ]
+            },
+            {
+                "steps": 3980896,
+                "file_path": "results\\test5\\RedLight\\RedLight-3980896.onnx",
+                "reward": null,
+                "creation_time": 1744843836.4255676,
+                "auxillary_file_paths": [
+                    "results\\test5\\RedLight\\RedLight-3980896.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3980896,
+            "file_path": "results\\test5\\RedLight.onnx",
+            "reward": null,
+            "creation_time": 1744843836.4255676,
+            "auxillary_file_paths": [
+                "results\\test5\\RedLight\\RedLight-3980896.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

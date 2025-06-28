@@ -1,0 +1,38 @@
+{
+    "RedLight": {
+        "checkpoints": [
+            {
+                "steps": 278049,
+                "file_path": "results\\test8\\RedLight\\RedLight-278049.onnx",
+                "reward": null,
+                "creation_time": 1745015479.7287986,
+                "auxillary_file_paths": [
+                    "results\\test8\\RedLight\\RedLight-278049.pt"
+                ]
+            },
+            {
+                "steps": 342561,
+                "file_path": "results\\test8\\RedLight\\RedLight-342561.onnx",
+                "reward": null,
+                "creation_time": 1745290838.2181983,
+                "auxillary_file_paths": [
+                    "results\\test8\\RedLight\\RedLight-342561.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 342561,
+            "file_path": "results\\test8\\RedLight.onnx",
+            "reward": null,
+            "creation_time": 1745290838.2181983,
+            "auxillary_file_paths": [
+                "results\\test8\\RedLight\\RedLight-342561.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}

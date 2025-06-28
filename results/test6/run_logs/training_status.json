@@ -1,0 +1,65 @@
+{
+    "RedLight": {
+        "checkpoints": [
+            {
+                "steps": 2448367,
+                "file_path": "results\\test6\\RedLight\\RedLight-2448367.onnx",
+                "reward": null,
+                "creation_time": 1744907248.2345805,
+                "auxillary_file_paths": [
+                    "results\\test6\\RedLight\\RedLight-2448367.pt"
+                ]
+            },
+            {
+                "steps": 2499367,
+                "file_path": "results\\test6\\RedLight\\RedLight-2499367.onnx",
+                "reward": -110.50028228759766,
+                "creation_time": 1744910471.6846602,
+                "auxillary_file_paths": [
+                    "results\\test6\\RedLight\\RedLight-2499367.pt"
+                ]
+            },
+            {
+                "steps": 2999367,
+                "file_path": "results\\test6\\RedLight\\RedLight-2999367.onnx",
+                "reward": -110.71193330184273,
+                "creation_time": 1744910846.4620576,
+                "auxillary_file_paths": [
+                    "results\\test6\\RedLight\\RedLight-2999367.pt"
+                ]
+            },
+            {
+                "steps": 3168367,
+                "file_path": "results\\test6\\RedLight\\RedLight-3168367.onnx",
+                "reward": null,
+                "creation_time": 1744911030.9815085,
+                "auxillary_file_paths": [
+                    "results\\test6\\RedLight\\RedLight-3168367.pt"
+                ]
+            },
+            {
+                "steps": 3216367,
+                "file_path": "results\\test6\\RedLight\\RedLight-3216367.onnx",
+                "reward": null,
+                "creation_time": 1744911267.9592488,
+                "auxillary_file_paths": [
+                    "results\\test6\\RedLight\\RedLight-3216367.pt"
+                ]
+            }
+        ],
+        "final_checkpoint": {
+            "steps": 3216367,
+            "file_path": "results\\test6\\RedLight.onnx",
+            "reward": null,
+            "creation_time": 1744911267.9592488,
+            "auxillary_file_paths": [
+                "results\\test6\\RedLight\\RedLight-3216367.pt"
+            ]
+        }
+    },
+    "metadata": {
+        "stats_format_version": "0.3.0",
+        "mlagents_version": "1.1.0",
+        "torch_version": "2.2.2+cu121"
+    }
+}
